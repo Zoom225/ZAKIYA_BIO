@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Remplacer https://votre-domaine.tld après mise en production. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://votre-domaine.tld/</loc></url>
+  <url><loc>https://votre-domaine.tld/articles</loc></url>
+  <url><loc>https://votre-domaine.tld/contact</loc></url>
+</urlset>

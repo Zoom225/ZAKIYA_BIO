@@ -1,12 +1,13 @@
-import { Component, signal } from '@angular/core';
+import { Component } from '@angular/core';
 import { RouterOutlet } from '@angular/router';
+import { HeaderComponent } from './shared/header.component';
+import { FooterComponent } from './shared/footer.component';
+import { FloatingActionsComponent } from './shared/floating-actions.component';
 
 @Component({
-  imports: [RouterOutlet],
   selector: 'app-root',
-  styleUrl: './app.css',
+  imports: [RouterOutlet, HeaderComponent, FooterComponent, FloatingActionsComponent],
   templateUrl: './app.html',
+  styleUrl: './app.css',
 })
-export class App {
-  protected readonly title = signal('ZAKIYA-BIO');
-}
+export class App {}
