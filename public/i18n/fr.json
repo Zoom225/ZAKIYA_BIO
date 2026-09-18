@@ -1,0 +1,320 @@
+{
+  "SEO": {
+    "HOME": "Zakiya Bio | Le naturel au service de votre bien-être",
+    "ARTICLES": "Nos articles | Zakiya Bio",
+    "CONTACT": "Contactez-nous | Zakiya Bio",
+    "NOT_FOUND": "Page introuvable | Zakiya Bio"
+  },
+  "NAV": {
+    "HOME": "Accueil",
+    "ARTICLES": "Articles",
+    "CONTACT": "Nous contacter",
+    "DISCOVER": "Découvrir la sélection"
+  },
+  "COMMON": {
+    "BRAND": "Zakiya Bio",
+    "DISCOVER": "Découvrir",
+    "LEARN_MORE": "En savoir plus",
+    "RESET": "Réinitialiser",
+    "WRITE_WHATSAPP": "Écrire sur WhatsApp",
+    "WHATSAPP_DISCOVER_MESSAGE": "Bonjour Zakiya Bio, je souhaite découvrir vos articles.",
+    "WHATSAPP_AVAILABILITY_MESSAGE": "Bonjour Zakiya Bio, je souhaite connaître les disponibilités de vos articles.",
+    "WHATSAPP_INFO_MESSAGE": "Bonjour Zakiya Bio, je souhaite obtenir des informations.",
+    "WHATSAPP_ARTICLE_MESSAGE": "Bonjour Zakiya Bio, je souhaite avoir plus d’informations concernant l’article : {{name}}.",
+    "NOT_FOUND": {
+      "TITLE": "Cette page s’est égarée",
+      "TEXT": "La page que vous cherchez n’existe pas ou a été déplacée.",
+      "HOME": "Retour à l’accueil",
+      "ARTICLES": "Voir les articles"
+    }
+  },
+  "HOME": {
+    "HERO": {
+      "KICKER": "Beauté • Bien-être • Saveurs",
+      "ARTICLES_CTA": "Découvrir nos articles",
+      "SLIDES": {
+        "SPICES": {
+          "ALT": "Pot d’épices Zakiya Bio entouré d’ingrédients",
+          "TITLE": "Le naturel qui vous ressemble",
+          "TEXT": "Découvrez une sélection attentive de soins, de saveurs et de produits bien-être pour votre quotidien."
+        },
+        "PERFUMES": {
+          "ALT": "Collection de parfums Orientica",
+          "TITLE": "Des essentiels choisis avec soin",
+          "TEXT": "Des produits authentiques et variés, réunis pour prendre soin de vous et de ceux que vous aimez."
+        },
+        "CARE": {
+          "ALT": "Sélection de soins naturels Zakiya Bio",
+          "TITLE": "Votre bien-être, notre inspiration",
+          "TEXT": "Beauté, rituels naturels et conseils personnalisés : trouvez le produit adapté à vos envies."
+        }
+      }
+    },
+    "WELCOME": {
+      "IMAGE_ALT": "Sélection de produits naturels Zakiya Bio",
+      "IMAGE_CAPTION": "Une sélection choisie avec attention",
+      "EYEBROW": "Notre histoire",
+      "TITLE": "Bienvenue chez Zakiya Bio",
+      "LEAD": "Zakiya Bio vous propose une sélection de produits naturels, de soins, de beauté et de saveurs choisis avec attention.",
+      "TEXT": "Notre ambition est de vous accompagner au quotidien avec des références variées, des conseils personnalisés et une commande simple par WhatsApp.",
+      "SIGNATURE": "Le naturel, simplement.",
+      "LINK": "En savoir plus sur la boutique"
+    },
+    "COLLECTIONS": {
+      "EYEBROW": "Explorer",
+      "TITLE": "Nos univers",
+      "DESCRIPTION": "Des essentiels pour prendre soin de vous et embellir votre quotidien.",
+      "ITEMS": {
+        "CARE": {
+          "COUNT": "Beauté",
+          "TITLE": "Soins naturels",
+          "TEXT": "Des rituels choisis pour votre quotidien."
+        },
+        "WELLNESS": {
+          "COUNT": "Équilibre",
+          "TITLE": "Bien-être",
+          "TEXT": "Une sélection inspirée des traditions naturelles."
+        },
+        "FLAVORS": {
+          "COUNT": "Cuisine",
+          "TITLE": "Saveurs",
+          "TEXT": "Des goûts francs pour relever vos recettes."
+        },
+        "PERFUMES": {
+          "COUNT": "Rituels",
+          "TITLE": "Parfums & huiles",
+          "TEXT": "Des senteurs et huiles à découvrir."
+        }
+      }
+    },
+    "FEATURED": {
+      "EYEBROW": "Nos incontournables",
+      "TITLE": "Articles en vedette",
+      "DESCRIPTION": "Une sélection appréciée à découvrir dès maintenant.",
+      "ALL": "Voir tous les articles"
+    },
+    "BENEFITS": {
+      "EYEBROW": "Pourquoi nous choisir ?",
+      "TITLE": "L’expérience Zakiya Bio",
+      "ITEMS": {
+        "CURATED": {
+          "TITLE": "Sélection soignée",
+          "TEXT": "Des références retenues avec attention pour leur intérêt et leur authenticité."
+        },
+        "QUALITY": {
+          "TITLE": "Variété & qualité",
+          "TEXT": "Beauté, bien-être et saveurs réunis dans une sélection en évolution."
+        },
+        "ADVICE": {
+          "TITLE": "Conseils personnalisés",
+          "TEXT": "Un échange direct pour vous orienter selon vos besoins."
+        },
+        "ORDER": {
+          "TITLE": "Commande simple",
+          "TEXT": "Une prise de contact rapide et pratique directement sur WhatsApp."
+        }
+      }
+    },
+    "CTA": {
+      "EYEBROW": "Une envie, une question ?",
+      "TITLE": "Vous avez trouvé votre coup de cœur ?",
+      "TEXT": "Contactez-nous directement pour connaître les disponibilités et les modalités de commande."
+    }
+  },
+  "ARTICLES": {
+    "HERO": {
+      "EYEBROW": "La boutique",
+      "TITLE": "Nos articles",
+      "TEXT": "Explorez notre sélection de produits naturels, de soins, de beauté et de saveurs."
+    },
+    "FILTERS": {
+      "SEARCH_LABEL": "Rechercher un article",
+      "SEARCH_PLACEHOLDER": "Ex. huile, épices, savon…",
+      "CATEGORY": "Catégorie",
+      "ALL_CATEGORIES": "Toutes les catégories"
+    },
+    "RESULTS": "{{count}} article(s) affiché(s)",
+    "PRICE_ON_REQUEST": "Prix sur demande",
+    "EMPTY": {
+      "TITLE": "Aucun article trouvé",
+      "TEXT": "Essayez un autre mot-clé ou réinitialisez les filtres.",
+      "ACTION": "Voir tous les articles"
+    },
+    "CATEGORIES": {
+      "FLAVORS": "Saveurs",
+      "BODY_CARE": "Soins du corps",
+      "SOAPS": "Savons",
+      "HAIR_CARE": "Soins capillaires",
+      "WELLNESS": "Bien-être",
+      "PERFUMES": "Parfums",
+      "NATURAL_OILS": "Huiles naturelles",
+      "OTHER": "Autres"
+    },
+    "DETAIL": {
+      "BACK": "Retour aux articles",
+      "SIZES": "Formats",
+      "VARIANTS": "Variantes",
+      "VARIED": "Variées",
+      "AVAILABILITY": "Disponibilité",
+      "AVAILABLE": "Disponible sur demande",
+      "UNAVAILABLE": "Indisponible",
+      "ORDER": "Commander sur WhatsApp",
+      "WHATSAPP_NOTE": "Vous serez redirigé vers WhatsApp avec un message déjà préparé.",
+      "SIMILAR_EYEBROW": "À découvrir aussi",
+      "SIMILAR_TITLE": "Articles similaires",
+      "NOT_FOUND_TITLE": "Article introuvable",
+      "NOT_FOUND_TEXT": "Cet article n’existe pas ou n’est plus disponible.",
+      "BACK_CATALOG": "Retour au catalogue"
+    },
+    "ITEMS": {
+      "mon-pot-epices": {
+        "NAME": "Mon Pot d’Épices",
+        "SHORT": "Un mélange aromatique pour relever vos plats du quotidien.",
+        "DESCRIPTION": "Une sélection d’épices réunies dans un mélange pratique et savoureux, pensé pour accompagner viandes, sauces, marinades et plats mijotés.",
+        "BADGE": "Coup de cœur"
+      },
+      "huile-fourmi": {
+        "NAME": "Huile de fourmi",
+        "SHORT": "Un soin corporel à intégrer à votre routine après épilation.",
+        "DESCRIPTION": "Une huile de soin destinée à l’entretien de la peau après épilation. Contactez-nous pour obtenir les conseils d’utilisation et vérifier la disponibilité.",
+        "BADGE": "Tendance"
+      },
+      "savon-olive": {
+        "NAME": "Savon à l’olive",
+        "SHORT": "Un savon doux pour une routine de soin quotidienne.",
+        "DESCRIPTION": "Savon à l’olive proposé pour nettoyer la peau en douceur. Pour connaître la composition exacte et les recommandations adaptées, contactez directement la boutique.",
+        "BADGE": "Nouveau"
+      },
+      "huile-cade-vinaigre-cidre": {
+        "NAME": "Duo capillaire au cade",
+        "SHORT": "Huile de cade et vinaigre de cidre pour votre routine capillaire.",
+        "DESCRIPTION": "Un duo de produits pour compléter votre rituel capillaire. Demandez conseil à Zakiya Bio pour l’usage, la composition et la disponibilité.",
+        "BADGE": ""
+      },
+      "lait-amande-douce": {
+        "NAME": "Lait d’amande douce",
+        "SHORT": "Un lait cosmétique pour une routine peau tout en douceur.",
+        "DESCRIPTION": "Lait cosmétique à l’amande douce. La disponibilité et les informations complètes du produit sont confirmées sur demande.",
+        "BADGE": ""
+      },
+      "huile-mahalabiya": {
+        "NAME": "Huile Mahalabiya",
+        "SHORT": "Une huile traditionnellement associée aux soins au henné.",
+        "DESCRIPTION": "Huile de soin Mahalabiya proposée par Zakiya Bio. Contactez la boutique pour vérifier son utilisation, son format et sa disponibilité.",
+        "BADGE": "Coup de cœur"
+      },
+      "costus-indien": {
+        "NAME": "Costus indien",
+        "SHORT": "Costus indien conditionné en sachet, en plusieurs formats.",
+        "DESCRIPTION": "Costus indien soigneusement conditionné. Les formats présentés peuvent varier selon les arrivages.",
+        "BADGE": ""
+      },
+      "nigelle-miel-huile": {
+        "NAME": "Sélection nigelle",
+        "SHORT": "Une sélection autour de la nigelle, du miel et de l’huile.",
+        "DESCRIPTION": "Un assortiment de produits à base de nigelle présenté en boutique. Demandez les références actuellement disponibles.",
+        "BADGE": ""
+      },
+      "soubala": {
+        "NAME": "Soumbala",
+        "SHORT": "Un condiment traditionnel au goût marqué.",
+        "DESCRIPTION": "Soumbala conditionné en pot, à découvrir pour enrichir vos préparations culinaires.",
+        "BADGE": ""
+      },
+      "the-minceur": {
+        "NAME": "Thé vert aux plantes",
+        "SHORT": "Une infusion à base de thé vert et de plantes.",
+        "DESCRIPTION": "Préparation pour infusion à base de thé vert et de plantes. Consultez les informations figurant sur l’emballage avant utilisation.",
+        "BADGE": ""
+      },
+      "parfums-orientica": {
+        "NAME": "Parfums Orientica",
+        "SHORT": "Une sélection de senteurs aux caractères variés.",
+        "DESCRIPTION": "Une gamme de parfums Orientica en plusieurs senteurs. Contactez-nous pour découvrir les références disponibles.",
+        "BADGE": "Tendance"
+      },
+      "huile-coco": {
+        "NAME": "Huile de coco",
+        "SHORT": "Un incontournable polyvalent de la beauté naturelle.",
+        "DESCRIPTION": "Huile de coco proposée dans la sélection Zakiya Bio. Format et disponibilité à confirmer auprès de la boutique.",
+        "BADGE": ""
+      }
+    }
+  },
+  "CONTACT": {
+    "HERO": {
+      "EYEBROW": "Parlons de vos envies",
+      "TITLE": "Contactez Zakiya Bio",
+      "TEXT": "Une question sur un produit ou sa disponibilité ? Notre équipe est à votre écoute."
+    },
+    "INFO": {
+      "EYEBROW": "Restons en contact",
+      "TITLE": "Nous sommes là pour vous conseiller",
+      "TEXT": "Choisissez le numéro WhatsApp qui vous convient. Les informations du formulaire ouvrent WhatsApp : aucun message n’est transmis automatiquement par ce site.",
+      "WHATSAPP_PRIMARY": "WhatsApp principal",
+      "WHATSAPP_SECONDARY": "WhatsApp secondaire",
+      "ADDRESS": "Adresse",
+      "QUICK_TITLE": "Besoin d’une réponse rapide ?",
+      "QUICK_TEXT": "Échangez directement avec nous sur WhatsApp.",
+      "START": "Démarrer la conversation"
+    },
+    "FORM": { "EYEBROW": "Votre demande", "TITLE": "Écrivez-nous" }
+  },
+  "FORM": {
+    "LAST_NAME": "Nom",
+    "FIRST_NAME": "Prénom",
+    "EMAIL": "E-mail",
+    "EMAIL_PLACEHOLDER": "vous@exemple.com",
+    "PHONE": "Téléphone",
+    "OPTIONAL": "facultatif",
+    "SUBJECT": "Sujet",
+    "SUBJECT_PLACEHOLDER": "Sélectionnez un sujet",
+    "SUBJECTS": {
+      "AVAILABILITY": "Disponibilité d’un article",
+      "ADVICE": "Conseil produit",
+      "ORDER": "Commande",
+      "OTHER": "Autre demande"
+    },
+    "MESSAGE": "Message",
+    "MESSAGE_PLACEHOLDER": "Comment pouvons-nous vous aider ?",
+    "SUBMIT": "Continuer sur WhatsApp",
+    "NOTE": "En cliquant, WhatsApp s’ouvrira avec votre message préparé. Vous devrez confirmer son envoi.",
+    "WHATSAPP_MESSAGE": "Bonjour Zakiya Bio,\n\nJe suis {{firstName}} {{lastName}}.\nSujet : {{subject}}\nMessage : {{message}}\nE-mail : {{email}}{{phone}}",
+    "WHATSAPP_PHONE": "\nTéléphone : {{phone}}"
+  },
+  "VALIDATION": {
+    "MIN_TWO": "Indiquez au moins 2 caractères.",
+    "EMAIL": "Saisissez une adresse e-mail valide.",
+    "SUBJECT": "Choisissez un sujet.",
+    "MESSAGE": "Votre message doit contenir au moins 10 caractères."
+  },
+  "FOOTER": {
+    "DESCRIPTION": "Produits naturels, soins, beauté et saveurs sélectionnés avec attention.",
+    "NAVIGATION": "Navigation",
+    "OUR_ARTICLES": "Nos articles",
+    "CONTACT_US": "Nous joindre",
+    "FACEBOOK": "Suivre Zakiya Bio sur Facebook",
+    "NEWSLETTER_TITLE": "La lettre naturelle",
+    "NEWSLETTER_TEXT": "Nos nouveautés seront bientôt disponibles par e-mail.",
+    "COMING_SOON": "Inscription bientôt disponible",
+    "COPYRIGHT": "© {{year}} Zakiya Bio. Tous droits réservés.",
+    "CARE": "Conçu avec soin pour votre bien-être."
+  },
+  "ACCESSIBILITY": {
+    "SKIP_TO_CONTENT": "Aller au contenu",
+    "BRAND_HOME": "Zakiya Bio, accueil",
+    "MAIN_NAV": "Navigation principale",
+    "MOBILE_NAV": "Navigation mobile",
+    "TOGGLE_MENU": "Ouvrir ou fermer le menu",
+    "HERO_CAROUSEL": "Sélection Zakiya Bio",
+    "PREVIOUS_SLIDE": "Diapositive précédente",
+    "NEXT_SLIDE": "Diapositive suivante",
+    "SHOW_SLIDE": "Afficher la diapositive {{number}}",
+    "VIEW_ARTICLE": "Voir {{name}}",
+    "ARTICLE_IMAGE": "{{name}} proposé par Zakiya Bio",
+    "OTHER_VIEW": "Autre vue de {{name}}",
+    "ORDER_WHATSAPP": "Commander {{name}} sur WhatsApp",
+    "WHATSAPP": "Écrire à Zakiya Bio sur WhatsApp",
+    "BACK_TO_TOP": "Remonter en haut"
+  }
+}
